@@ -11,6 +11,7 @@ namespace BerTug
         static void Main(string[] args)
         {
             Console.WriteLine("Hellooooo :)");
+            Console.WriteLine("BerTuğ uygulamasına hoşgeldiniz!");
             Console.ReadKey();
         }
     }
