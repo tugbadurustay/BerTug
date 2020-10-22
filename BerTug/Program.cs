@@ -14,6 +14,7 @@ namespace BerTug
             Console.WriteLine("BerTuğ uygulamasına hoşgeldiniz!");
             Console.WriteLine("İşlem başarılı :)...");
             //Berrak
+            //Tuğba
             Yaz();
             Console.ReadKey();
         }
