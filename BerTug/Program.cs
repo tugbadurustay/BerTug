@@ -10,7 +10,7 @@ namespace BerTug
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellooooo :)");
+            Console.WriteLine("Merhaba :)");
             Console.WriteLine("BerTuğ uygulamasına hoşgeldiniz!");
             Console.WriteLine("İşlem başarılı :)...");
             //Berrak
