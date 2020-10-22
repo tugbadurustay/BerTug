@@ -13,7 +13,7 @@ namespace BerTug
             Console.WriteLine("Hellooooo :)");
             Console.WriteLine("BerTuğ uygulamasına hoşgeldiniz!");
             Console.WriteLine("İşlem başarılı :)...");
-
+            //Berrak
             Yaz();
             Console.ReadKey();
         }
