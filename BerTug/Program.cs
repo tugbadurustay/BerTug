@@ -12,7 +12,7 @@ namespace BerTug
         {
             Console.WriteLine("Merhaba :)");
             Console.WriteLine("BerTuğ uygulamasına hoşgeldiniz!");
-            Console.WriteLine("İşlem başarılı :)...");
+            Console.WriteLine("İşlem başarısız...");
             //Berrak
             //Tuğba
             Yaz();
